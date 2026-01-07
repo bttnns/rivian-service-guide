@@ -135,8 +135,13 @@
 
 ### Recovery.
 
-> TODO photos
+> WARNING: As of 2025.38, the "low voltage battery service" function does *NOT* clear DTCs (warnings)
+> about the 12v battery in dual battery vehicles. The only known way to clear this DTC today in dual
+> battery vehicles is a direct connection to RiDE at your service center :(
+>
+> You can not receive OTA software updates with the 12v DTC active.
+
+![Low Voltage Battery Service](12v-battery-service.jpg)
 
   1. Once the batteries are in the vehicle, enter the cabin and perform a hard reset. (hold the left-most steering wheel button and the emergency blinker button)
   2. Once the vehicle recovers, go into RiDE to run the "Low Voltage Battery Service"
-     1. As of today, this doesn't seem to do anything on dual battery vehicles... data is being [collected](https://www.rivianforums.com/forum/threads/need-data-points-low-voltage-battery-service-in-ride-functionality.54145/).
