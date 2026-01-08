@@ -139,7 +139,8 @@
 > about the 12v battery in dual battery vehicles. The only known way to clear this DTC today in dual
 > battery vehicles is a direct connection to RiDE at your service center :(
 >
-> You can not receive OTA software updates with the 12v DTC active.
+> It is suspected that since the secondary battery is normally a capacitor in most vehicles, a capacitor
+> fault is considered "fatal" and not clearable via the function below.
 
 ![Low Voltage Battery Service](12v-battery-service.jpg)
 
