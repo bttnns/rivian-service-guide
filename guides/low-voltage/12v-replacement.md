@@ -33,6 +33,7 @@
     * WARNING: If you run the 2025.38 or later software, There are reports the ohmmu batteries may incorrectly trigger the "12v service" warning. This is likely due to Rivian tightening the battery health metric ranges.
   * **Universal / local Third Party:**
     * [Local Option,  12v, Deep Cycle](https://www.batteriesplus.com/productdetails/sladc12=20c) (wrong post locations, may need rotation of connectors)
+    * [JEGS Option, 12v, Deep Cycle](https://www.jegs.com/i/Full-Throttle-Battery/597/FT230D/10002/-1) (wrong post locations, may need rotation of connectors)
     * [Amazon Option, 12v, Deep Cycle](https://amzn.to/4ocyb5Q)
     * [Reusable Post Relocator](https://soonishev.com/products/battery-post-relocator)
     * [Extended M5 bolt](https://amzn.to/4p4BCfF)
